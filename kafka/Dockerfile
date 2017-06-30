@@ -1,4 +1,4 @@
-FROM java:openjdk-8u91-jdk
+FROM java:openjdk-8u111-jdk
 
 MAINTAINER Maksat Annageldyev <maksat.annageldyev@maksat.software>
 
